@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <title>5-Maktab</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f4f4f4;
+      margin: 0;
+    }
+
+    header {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    .container {
+      display: flex;
+      max-width: 900px;
+      margin: 30px auto;
+      background: white;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+
+    .container img {
+      width: 400px;
+      object-fit: cover;
+    }
+
+    .info {
+      padding: 20px;
+    }
+
+    .info h2 {
+      margin-top: 0;
+      color: #2c3e50;
+    }
+
+    .info p {
+      line-height: 1.6;
+    }
+
+    .info ul {
+      margin-top: 15px;
+    }
+
+    .info li {
+      margin-bottom: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<header>5-Maktab</header>
+
+<div class="container">
+  <img src="https://images.unsplash.com/photo-1580587771525-78b9dba3b914" alt="Maktab rasmi">
+  <div class="info">
+    <h2>5-Maktab haqida</h2>
+    <p>5-maktab — bu zamonaviy ta’lim beruvchi maktablardan biri bo‘lib, o‘quvchilarga sifatli bilim va tarbiya beradi. Bu yerda tajribali o‘qituvchilar faoliyat yuritadi.</p>
+
+    <ul>
+      <li>🏫 Manzil: Taxtakopir rayoninda jaylasqan jaylashgan</li>
+      <li>👨‍🏫 Tajziybeli o‘qituvchilar</li>
+      <li>📚 Zamanavoy Sabaqlarlar</li>
+      <li>💻 Kompyuter xonasi bar</li>
+      <li>⚽ Sport maydani bor</li>
+    </ul>
+  </div>
+</div>
+
+</body>
+</html>
