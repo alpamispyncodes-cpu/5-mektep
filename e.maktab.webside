@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>e.maktap</title>
+</head>
+<body>
+    <p style="background-color: black;color: white;border-radius: 5px;">5-Mektep xaqqinda</p>
+    <hr>
+    <p style="background-color: orange;border-radius: 5px;color: white;">Jaqqinda open bujjet arqali gazon utup alindi</p>
+    <p style="background-color: rgb(0, 255, 217);border-radius: 5px;color: white;">Aldingi jili Elektron doskalar tutup alindi</p>
+</body>
+</html>
