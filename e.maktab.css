@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+}
+
+.header {
+    background: #1e88e5;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    background: #1565c0;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    padding: 20px;
+}
+
+.left, .right {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.left {
+    width: 40%;
+}
+
+.right {
+    width: 60%;
+}
+
+.grades {
+    display: flex;
+    gap: 10px;
+}
+
+.card {
+    background: #4caf50;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.news p {
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+}
